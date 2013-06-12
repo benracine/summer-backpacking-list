@@ -1,4 +1,4 @@
-# Basics
+## Basics
 - [x] backpack
 - [x] groundsheet
 - [x] pad
@@ -7,7 +7,7 @@
 - [x] poles
 - [x] stakes
 
-# Clothing
+## Clothing
 - [x] bathing suit
 - [x] shirt
 - [x] socks
@@ -15,14 +15,14 @@
 - [x] hat
 - [x] sunglasses
 
-# Extra clothing
+## Extra clothing
 - [x] gloves
 - [ ] pants
 - [x] rain jacket
 - [x] jacket
 - [x] wool hat
 
-# Miscellany
+## Miscellany
 - [ ] bug spray
 - [x] headlamp
 - [ ] tp and hand gel
@@ -30,7 +30,7 @@
 - [ ] map
 - [ ] sunscreen
 
-# Consumables
+## Consumables
 - [x] pot
 - [x] utensil
 - [ ] water
