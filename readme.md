@@ -1,37 +1,33 @@
 # Basics
 - [x] backpack
+- [x] groundsheet
+- [x] pad
+- [x] bag
 - [x] tarp
+- [x] poles
 - [x] stakes
-- [x] ground cloth
-- [x] sleeping bag
-- [x] sleeping pad
-- [x] tent poles
-- [ ] lighter sleeping bag
-- [ ] trekking poles
 
 # Clothing
 - [x] bathing suit
-- [ ] gloves
+- [x] shirt
+- [x] socks
+- [x] shoes
 - [x] hat
-- [x] insulation
-- [ ] mitts
+- [x] sunglasses
+
+# Extra clothing
+- [x] gloves
 - [ ] pants
 - [x] rain jacket
-- [ ] shirt
-- [ ] socks
-- [x] shoes
-- [x] warm hat
+- [x] jacket
+- [x] wool hat
 
 # Miscellany
+- [ ] bug spray
 - [x] headlamp
+- [ ] tp and hand gel
 - [x] lighter
-- [x] matches
-- [x] sunglasses
-- [ ] toilet paper
-- [ ] hand gel
-- [x] drugs, fun ones
-- [ ] maps
-- [ ] insect rep
+- [ ] map
 - [ ] sunscreen
 
 # Consumables
