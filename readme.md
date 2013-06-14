@@ -17,23 +17,24 @@
 
 ## Extra clothing
 - [x] gloves
-- [ ] pants
+- [x] rain pants
 - [x] rain jacket
 - [x] jacket
+- [x] warm pants
 - [x] wool hat
 
 ## Miscellany
-- [ ] bug spray
 - [x] headlamp
-- [ ] tp and hand gel
+- [x] tp and hand gel
 - [x] lighter
-- [ ] map
-- [ ] sunscreen
+- [x] sunscreen
 
 ## Consumables
 - [x] pot
 - [x] utensil
-- [ ] water
-- [ ] water treatment 
-- [ ] stove and fuel canister
-- [ ] food
+- [x] water
+- [x] water treatment 
+- [x] food
+
+## Run to Second Ascent
+- [ ] fuel canister
